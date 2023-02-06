@@ -8,6 +8,7 @@
 
 body{
     background-color: rgb(97, 120, 126);
+    overflow: hidden;
 }
 
 h2{
